@@ -3,7 +3,9 @@
 Done basic kafka POCs.
 
 To run Kafka applications on local first we have to run below two commands, to start Zookeeper and kafka server.
+
 `1. bin/zookeeper-server-start.sh config/zookeeper.properties`
+
 `2. bin/kafka-server-start.sh config/server.properties`
 
 To create topic:
@@ -40,6 +42,7 @@ Created POC where application have kafka producer, consumer, and MongoDB reposit
 
 ![image](https://github.com/shridhardaga04/kafka-learning/assets/47686682/b56afdd4-92b7-4928-951d-51f0adf283ed)
 
-![Uploading image.png…]()
+![image](https://github.com/shridhardaga04/kafka-learning/assets/47686682/2ae242cb-d603-4044-b716-ada8ccb65f64)
+
 
 
